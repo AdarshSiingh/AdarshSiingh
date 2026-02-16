@@ -1,5 +1,22 @@
-# 💫 About Me:
-I’m currently working on full-stack projects using React, Node.js, Express, and MongoDB while strengthening my Data Structures & Algorithms skills.<br>I’m looking to collaborate on data analytics projects, full-stack web applications, and DSA practice discussions.<br>I’m looking for help with improving my problem-solving skills, advanced SQL queries, and building scalable backend systems.<br>I’m currently learning full-stack development and applying data analytics to solve real-world problems and gain meaningful insights from data.<br>Ask me about Python, SQL, MongoDB, REST APIs, and building web applications from scratch.<br>Fun fact: I enjoy solving coding problems and turning ideas into working applications.<br>
+# 💫 About Me
+
+Hi there! 👋 I'm a passionate Computer Science student who enjoys building impactful applications and solving real-world problems.<br><br>
+
+🚀 <b>Currently Working On:</b><br>
+Full-stack projects using <b>React, Node.js, Express, and MongoDB</b> while strengthening my <b>Data Structures & Algorithms</b> skills.<br><br>
+
+👯 <b>Looking to Collaborate On:</b><br>
+Data analytics projects, full-stack web applications, and DSA practice discussions.<br><br>
+
+🌱 <b>Currently Learning:</b><br>
+Advanced backend concepts, optimized SQL queries, and applying data analytics to solve real-world problems.<br><br>
+
+💬 <b>Ask Me About:</b><br>
+Python, SQL, MongoDB, REST APIs, and full-stack development.<br><br>
+
+⚡ <b>Fun Fact:</b><br>
+I enjoy solving coding problems and turning ideas into real, working applications.<br>
+
 
 
 ## 🌐 Socials:
