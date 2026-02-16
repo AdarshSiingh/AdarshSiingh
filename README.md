@@ -12,7 +12,7 @@ Data analytics projects, full-stack web applications, and DSA practice discussio
 Advanced backend concepts, optimized SQL queries, and applying data analytics to solve real-world problems.<br><br>
 
 💬 <b>Ask Me About:</b><br>
-Python, SQL, MongoDB, REST APIs, and full-stack development.<br><br>
+Python, SQL, MongoDB, Analytics and full-stack development.<br><br>
 
 ⚡ <b>Fun Fact:</b><br>
 I enjoy solving coding problems and turning ideas into real, working applications.<br>
