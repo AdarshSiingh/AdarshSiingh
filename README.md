@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Full+Stack+Developer;Data+Analytics+Enthusiast;Software+Engineering+Learner)](https://git.io/typing-svg)
 
-![MIT](https://img.shields.io/badge/Manipal_Institute_of_Technology-8.6_CGPA-7C3AED?style=for-the-badge)
+![MIT](https://img.shields.io/badge/Manipal_Institute_of_Technology-8.7_CGPA-7C3AED?style=for-the-badge)
 ![Information Technology](https://img.shields.io/badge/B.Tech-Information_Technology-6366F1?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Lucknow-India-8B5CF6?style=for-the-badge)
 
