@@ -8,7 +8,7 @@
 ![Information Technology](https://img.shields.io/badge/B.Tech-Information_Technology-6366F1?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Lucknow-India-8B5CF6?style=for-the-badge)
 
-<a href="https://linkedin.com/in/adarsh-singh">
+<a href="https://linkedin.com/in/adarsh-singh-72b224316/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
